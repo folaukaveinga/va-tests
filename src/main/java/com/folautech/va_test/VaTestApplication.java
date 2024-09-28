@@ -1,4 +1,4 @@
-package com.folautech.va.va_test;
+package com.folautech.va_test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
